@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Population : MonoBehaviour
 {
-    [SerializeField] private List<Faction> factions = new List<Faction>();
+    [SerializeField] private List<PoliticalFaction> factions = new List<PoliticalFaction>();
 
     [SerializeField] private int populationSize = 1000;
 
