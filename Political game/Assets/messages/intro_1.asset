@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 254b53207e8e123468d6bd0af7663745, type: 3}
   m_Name: intro_1
   m_EditorClassIdentifier: 
-  message: "\rWelcome, future leader, to \"Election Chronicles: The Political Game
-    of Choices\"! I am your trusty assistant"
+  message: '*bursts into the office*  Mr. President! elections are coming up next
+    year we need to start preparing'
   PortraitImage: {fileID: 2141056194, guid: 18becc7e8fa396843a3f59de1b380e48, type: 3}

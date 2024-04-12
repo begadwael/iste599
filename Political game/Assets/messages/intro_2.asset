@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 254b53207e8e123468d6bd0af7663745, type: 3}
   m_Name: intro_2
   m_EditorClassIdentifier: 
-  message: 'As you embark on your journey to the highest office in the land, allow
-    me to provide you with some initial instructions and quests to set you on the
-    path to victory. '
-  PortraitImage: {fileID: 2141056194, guid: 18becc7e8fa396843a3f59de1b380e48, type: 3}
+  message: '*taken aback* Whoa, hold up there! What''s going on? Who are you?
+
+'
+  PortraitImage: {fileID: -948808462, guid: 0abe5cecbaf856b42bcd289239a1aa97, type: 3}

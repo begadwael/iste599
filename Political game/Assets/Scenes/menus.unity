@@ -206,6 +206,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isTriggeredByTime: 1
   timeToTrigger: 30
+  isTriggeredByCollider: 0
+  triggerCollider: {fileID: 0}
   isTriggered: 0
 --- !u!114 &65933753
 MonoBehaviour:
@@ -235,6 +237,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isTriggeredByTime: 1
   timeToTrigger: 10
+  isTriggeredByCollider: 0
+  triggerCollider: {fileID: 0}
   isTriggered: 0
   message: {fileID: 11400000, guid: 0b2a24506b91dcd419562e814f2487f6, type: 2}
   isSeries: 1
@@ -12439,10 +12443,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1541137036163400389, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -5710
-      objectReference: {fileID: 0}
     - target: {fileID: 2671216362480445781, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
       propertyPath: m_Camera
       value: 
@@ -12450,10 +12450,6 @@ PrefabInstance:
     - target: {fileID: 5733429840526666517, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
       propertyPath: m_Name
       value: Dialogue canvas
-      objectReference: {fileID: 0}
-    - target: {fileID: 5733429840526666517, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6911254694117884137, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
       propertyPath: m_Pivot.x
@@ -12534,22 +12530,6 @@ PrefabInstance:
     - target: {fileID: 6911254694117884137, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8804408369775052036, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 936.27
-      objectReference: {fileID: 0}
-    - target: {fileID: 8804408369775052036, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 119.33
-      objectReference: {fileID: 0}
-    - target: {fileID: 8804408369775052036, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 103
-      objectReference: {fileID: 0}
-    - target: {fileID: 8804408369775052036, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -428
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

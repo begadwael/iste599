@@ -8,6 +8,10 @@ public class GameEvent : MonoBehaviour
     public bool isTriggeredByTime = false;
     public float timeToTrigger;
 
+    [Header("Collider Settings")]
+    public bool isTriggeredByCollider = false;
+    public Collider2D triggerCollider;
+
     [Header("Debug")]
     public bool isTriggered = false;
 
@@ -16,5 +20,7 @@ public class GameEvent : MonoBehaviour
     {
         Debug.Log("Event Triggered");
     }
+
+    
 
 }
