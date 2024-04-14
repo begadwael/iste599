@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using TMPro;
 using Unity.PlasticSCM.Editor.WebApi;
 using UnityEngine;
-using TMPro;
 using System;
 
 public class TimeManger : MonoBehaviour
@@ -13,7 +12,7 @@ public class TimeManger : MonoBehaviour
     private float time = 0;
     [SerializeField] private float timeToStop = 0;
     [SerializeField] private float timemultiplier = 6f; // 6x speed = 1 hour in 1 minutes
-    [SerializeField] private bool isRunning = false;
+    [SerializeField] public bool isRunning = false;
 
     // List of all the events that will be triggered at a certain time
     [SerializeField] private List<GameEvent> gameEvents = new List<GameEvent>();

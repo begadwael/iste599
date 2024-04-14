@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272383e84ff1fd45a312ed6396949c8, type: 3}
+  m_Name: master_intro_5
+  m_EditorClassIdentifier: 
+  message: Let's begin with healthcare reform. You have the power to ensure that
+    every citizen, regardless of nationality, has access to healthcare. But be warned,
+    your decision will have consequences. Will you prioritize the needs of the people
+    or the interests of your donors?
+  isQuestion: 1
+  ChoiceCanvas: {fileID: 0}
