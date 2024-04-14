@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0abe5cecbaf856b42bcd289239a1aa97
+guid: ab91b9278c115774d9ed9321e76a0573
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bob_pfp_0
+      name: choice master_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8cfa0c922da9b5489ce6f4d45ea8cc5
-      internalID: -948808462
+      spriteID: 2bff0f713f8ba4f488691d88bd4a2418
+      internalID: -768641134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_1
+      name: choice master_1
       rect:
         serializedVersion: 2
         x: 96
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60ab0ace56a47fc4682736e582983714
-      internalID: 1177035197
+      spriteID: 389431fd190f4bf4d9243a16d7f75365
+      internalID: -1560077382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_2
+      name: choice master_2
       rect:
         serializedVersion: 2
         x: 192
@@ -166,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05eee43e846769d4a99b84937caf1255
-      internalID: 1020118461
+      spriteID: 4a5113eb515dc394c9d4ab5a2c2df437
+      internalID: 450539103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_3
+      name: choice master_3
       rect:
         serializedVersion: 2
         x: 288
@@ -187,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94da516feac31ba48ac9f4148ddbe561
-      internalID: -985430829
+      spriteID: 5479892a8a7100a4ead20a87a27b071d
+      internalID: 744026325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_4
+      name: choice master_4
       rect:
         serializedVersion: 2
         x: 384
@@ -208,14 +208,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2ba36b2e57b6c54681f0f4b9b8c4d10
-      internalID: 1534996911
+      spriteID: da08f30078748b741ad982a43294a6bb
+      internalID: 1499532616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_5
+      name: choice master_5
       rect:
         serializedVersion: 2
         x: 480
@@ -229,14 +229,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 855d3592da7cbcd43ad86cedc0624131
-      internalID: -1102539194
+      spriteID: 1184ab0378b87074389ee1cdf34b6f9d
+      internalID: 623362786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_6
+      name: choice master_6
       rect:
         serializedVersion: 2
         x: 576
@@ -250,14 +250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0da2f5ef48c060349beb0ff48c86b5a2
-      internalID: -842874159
+      spriteID: dfcbaca2ae026474aa635323dd1d5c7b
+      internalID: -1561792444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_7
+      name: choice master_7
       rect:
         serializedVersion: 2
         x: 672
@@ -271,14 +271,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fafc5142778eb148ba12555056e948c
-      internalID: 372421808
+      spriteID: e1b97b94182cfca4bbcf78fd2b0a3f4b
+      internalID: -1714982574
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_8
+      name: choice master_8
       rect:
         serializedVersion: 2
         x: 768
@@ -292,14 +292,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce5070328f2a806468b24ce14f90b87b
-      internalID: 1122435326
+      spriteID: 1f7a48621d683bb4f8e34c2c4a17006e
+      internalID: 392177267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_9
+      name: choice master_9
       rect:
         serializedVersion: 2
         x: 864
@@ -313,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f482367f8975c9a43ae8a536ca153e3e
-      internalID: 535786976
+      spriteID: 3c1468c7697a0964abd621c9ae76fcb4
+      internalID: -1447460559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_10
+      name: choice master_10
       rect:
         serializedVersion: 2
         x: 0
@@ -334,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de0522f89cfac154f8920c81e346f9dd
-      internalID: 483342141
+      spriteID: f755bb7a4fa604d43bbb547fce8f9d1e
+      internalID: -1524148316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_11
+      name: choice master_11
       rect:
         serializedVersion: 2
         x: 96
@@ -355,14 +355,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a78ffb7763c87ef45a801595c5404dfb
-      internalID: -2114059391
+      spriteID: b6e78453c72f9524cab16f71ffa394d7
+      internalID: -1305395488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_12
+      name: choice master_12
       rect:
         serializedVersion: 2
         x: 192
@@ -376,14 +376,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20a099019a0e051489c68b2656a3c617
-      internalID: -448064730
+      spriteID: 9785d43573ff89f41b1ac4003b4e7408
+      internalID: -1301741012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_13
+      name: choice master_13
       rect:
         serializedVersion: 2
         x: 288
@@ -397,14 +397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50ca357fd1d2cdc4789749a3e62db696
-      internalID: 652484929
+      spriteID: 483c7487c5554144ab4c1fe20bc59db3
+      internalID: 1792741754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_14
+      name: choice master_14
       rect:
         serializedVersion: 2
         x: 384
@@ -418,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c82a86de1a45fb64498fe4f47a46120b
-      internalID: 425678350
+      spriteID: 7c0770cb11485b94dae6862d2575a6f7
+      internalID: 158289969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_15
+      name: choice master_15
       rect:
         serializedVersion: 2
         x: 480
@@ -439,14 +439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68f28d2851cc75b4b83893d190937c1f
-      internalID: -784455667
+      spriteID: 69027a041dc33a84bb6dc671d148f4c2
+      internalID: 1590917829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_16
+      name: choice master_16
       rect:
         serializedVersion: 2
         x: 576
@@ -460,14 +460,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a8ecef29dba70a4a97a970f53d4643f
-      internalID: -1074081554
+      spriteID: 1977d137b7591fd4a8bdf11ca24ad465
+      internalID: 733596094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_17
+      name: choice master_17
       rect:
         serializedVersion: 2
         x: 672
@@ -481,14 +481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c90534b04d7f054590c1885ddd382b1
-      internalID: 233845860
+      spriteID: 12f020dceb566ef409ca66e6b135fce6
+      internalID: -923906400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_18
+      name: choice master_18
       rect:
         serializedVersion: 2
         x: 768
@@ -502,14 +502,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 480962df54750ef4fba2af85310ac35a
-      internalID: 1448261897
+      spriteID: e41677a05252741479087df0ec22bcb0
+      internalID: 683897326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_19
+      name: choice master_19
       rect:
         serializedVersion: 2
         x: 864
@@ -523,14 +523,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66661ed5c56d08848b319206561fd949
-      internalID: -236585809
+      spriteID: 4605fb03b6c48a24b8b6503cc8f7a666
+      internalID: 1160790420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_20
+      name: choice master_20
       rect:
         serializedVersion: 2
         x: 0
@@ -544,14 +544,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b00a51b0c641ad4f899b736fc9e1c5a
-      internalID: 1991882522
+      spriteID: 2ee6bdbe66764f64a91b4cb0c0628a1e
+      internalID: -512535950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_21
+      name: choice master_21
       rect:
         serializedVersion: 2
         x: 96
@@ -565,14 +565,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5eda90d6d2445a04f818616dec29979f
-      internalID: -1358385479
+      spriteID: 19b1d9bca00354549ad93266a8fab196
+      internalID: 363493968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_22
+      name: choice master_22
       rect:
         serializedVersion: 2
         x: 192
@@ -586,14 +586,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35af63f6b72debe4f94ac12a865c69cb
-      internalID: 1483391759
+      spriteID: 3ff10f15a1318654a9d6c5c9d0d63e57
+      internalID: -370800806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_23
+      name: choice master_23
       rect:
         serializedVersion: 2
         x: 288
@@ -607,14 +607,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d757ad39357978148812b150592ed602
-      internalID: -1160997225
+      spriteID: 2af7c9b23d6149748b3e91a322ec9aff
+      internalID: -793237589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_24
+      name: choice master_24
       rect:
         serializedVersion: 2
         x: 384
@@ -628,14 +628,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b072d9bb18b17a42921838daf6e81c8
-      internalID: -1197919443
+      spriteID: 8f38d8af2c90d0e42ae3371cd01107aa
+      internalID: 554994813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_25
+      name: choice master_25
       rect:
         serializedVersion: 2
         x: 480
@@ -649,14 +649,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70af9c489b7c68e47a7feceecbf21f59
-      internalID: -1613229435
+      spriteID: 08f3b2fa96968704ab575581ace894ab
+      internalID: 1923137641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_26
+      name: choice master_26
       rect:
         serializedVersion: 2
         x: 576
@@ -670,14 +670,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f700fa77e7544ed4a923bef4112fb49e
-      internalID: -398896634
+      spriteID: 5fddb47d966c9f540b31af524f5dd0e4
+      internalID: -2094846052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_27
+      name: choice master_27
       rect:
         serializedVersion: 2
         x: 672
@@ -691,14 +691,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52f4806db6fce8f4e95464332c1de01d
-      internalID: -1032805458
+      spriteID: 7683ed624b652f2418b8f6e9de60731c
+      internalID: 2123376951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_28
+      name: choice master_28
       rect:
         serializedVersion: 2
         x: 768
@@ -712,14 +712,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5f41bd2d3f1abb40b862f6ba2f5caad
-      internalID: 721230532
+      spriteID: 1c43ae36bc4a684499e937483392874a
+      internalID: -880930856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bob_pfp_29
+      name: choice master_29
       rect:
         serializedVersion: 2
         x: 864
@@ -733,8 +733,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 723362f83ccd4fd4ca78642faf6d3410
-      internalID: -491658338
+      spriteID: 63b0673dbe0e60d44b7f89b14aa032b4
+      internalID: -121277435
       vertices: []
       indices: 
       edges: []
@@ -750,36 +750,36 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bob_pfp_0: -948808462
-      bob_pfp_1: 1177035197
-      bob_pfp_10: 483342141
-      bob_pfp_11: -2114059391
-      bob_pfp_12: -448064730
-      bob_pfp_13: 652484929
-      bob_pfp_14: 425678350
-      bob_pfp_15: -784455667
-      bob_pfp_16: -1074081554
-      bob_pfp_17: 233845860
-      bob_pfp_18: 1448261897
-      bob_pfp_19: -236585809
-      bob_pfp_2: 1020118461
-      bob_pfp_20: 1991882522
-      bob_pfp_21: -1358385479
-      bob_pfp_22: 1483391759
-      bob_pfp_23: -1160997225
-      bob_pfp_24: -1197919443
-      bob_pfp_25: -1613229435
-      bob_pfp_26: -398896634
-      bob_pfp_27: -1032805458
-      bob_pfp_28: 721230532
-      bob_pfp_29: -491658338
-      bob_pfp_3: -985430829
-      bob_pfp_4: 1534996911
-      bob_pfp_5: -1102539194
-      bob_pfp_6: -842874159
-      bob_pfp_7: 372421808
-      bob_pfp_8: 1122435326
-      bob_pfp_9: 535786976
+      choice master_0: -768641134
+      choice master_1: -1560077382
+      choice master_10: -1524148316
+      choice master_11: -1305395488
+      choice master_12: -1301741012
+      choice master_13: 1792741754
+      choice master_14: 158289969
+      choice master_15: 1590917829
+      choice master_16: 733596094
+      choice master_17: -923906400
+      choice master_18: 683897326
+      choice master_19: 1160790420
+      choice master_2: 450539103
+      choice master_20: -512535950
+      choice master_21: 363493968
+      choice master_22: -370800806
+      choice master_23: -793237589
+      choice master_24: 554994813
+      choice master_25: 1923137641
+      choice master_26: -2094846052
+      choice master_27: 2123376951
+      choice master_28: -880930856
+      choice master_29: -121277435
+      choice master_3: 744026325
+      choice master_4: 1499532616
+      choice master_5: 623362786
+      choice master_6: -1561792444
+      choice master_7: -1714982574
+      choice master_8: 392177267
+      choice master_9: -1447460559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

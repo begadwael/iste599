@@ -10,9 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 254b53207e8e123468d6bd0af7663745, type: 3}
-  m_Name: into_3
+  m_Name: intro_4
   m_EditorClassIdentifier: 
-  message: Apologies for the dramatic entrance, Mr. President. I'm here to guide
-    you through the challenges that lie ahead. . The fate of this nation rests on
-    your decisions
+  message: 'The fate of this nation rests on your decisions. '
   PortraitImage: {fileID: 2141056194, guid: 18becc7e8fa396843a3f59de1b380e48, type: 3}

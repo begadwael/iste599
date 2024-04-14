@@ -246,6 +246,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 0b2a24506b91dcd419562e814f2487f6, type: 2}
   - {fileID: 11400000, guid: 07a658b7e80a0c34e89b76dc772e7bcc, type: 2}
   - {fileID: 11400000, guid: bd38cc50a4fe3a343a767fe956ba08a4, type: 2}
+  - {fileID: 11400000, guid: 398d81a8c04656e4a8c64672672df9c2, type: 2}
+  - {fileID: 11400000, guid: 529ab10d2fe9150479bf4ea632342ac6, type: 2}
+  - {fileID: 11400000, guid: 5a18e74af6759f147bb81c80851df5b4, type: 2}
+  - {fileID: 11400000, guid: 9cfcf57692531a94295db49ebba3888e, type: 2}
+  - {fileID: 11400000, guid: 14d2d786a364157418eea7a9b15280c7, type: 2}
   speachCanvas: {fileID: 309104833}
   ppf_sprite: {fileID: 428489182}
 --- !u!114 &65933755
@@ -12443,6 +12448,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1202930789299474202, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
+      propertyPath: m_fontSize
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202930789299474202, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 32
+      objectReference: {fileID: 0}
     - target: {fileID: 2671216362480445781, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
       propertyPath: m_Camera
       value: 
@@ -12450,6 +12463,10 @@ PrefabInstance:
     - target: {fileID: 5733429840526666517, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
       propertyPath: m_Name
       value: Dialogue canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733429840526666517, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6911254694117884137, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
       propertyPath: m_Pivot.x
@@ -12530,6 +12547,22 @@ PrefabInstance:
     - target: {fileID: 6911254694117884137, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8804408369775052036, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 941.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8804408369775052036, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 102.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 8804408369775052036, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 105.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 8804408369775052036, guid: 346e3f124b4269f4ab7a83b840263b31, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -419.35
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

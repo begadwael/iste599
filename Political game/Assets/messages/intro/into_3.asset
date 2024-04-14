@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 254b53207e8e123468d6bd0af7663745, type: 3}
-  m_Name: intro_1
+  m_Name: into_3
   m_EditorClassIdentifier: 
-  message: '*bursts into the office*  Mr. President! elections are coming up next
-    year we need to start preparing'
+  message: 'Apologies for the call, Mr. President. I''m your''e new assisant here
+    to guide you through the challenges that lie ahead.  '
   PortraitImage: {fileID: 2141056194, guid: 18becc7e8fa396843a3f59de1b380e48, type: 3}
