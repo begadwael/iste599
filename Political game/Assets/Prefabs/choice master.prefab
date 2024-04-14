@@ -705,11 +705,11 @@ GameObject:
   - component: {fileID: 7997188389160039169}
   m_Layer: 5
   m_Name: choice master
-  m_TagString: Untagged
+  m_TagString: ChoiceMaster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3327855875500636246
 RectTransform:
   m_ObjectHideFlags: 0

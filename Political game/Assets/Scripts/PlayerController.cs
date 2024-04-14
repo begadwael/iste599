@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -8,6 +9,7 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] Animator animator;
+    [SerializeField] private Canvas choiceMaster;
 
     Vector2 movement;
 
@@ -24,4 +26,13 @@ public class PlayerController : MonoBehaviour
         
         rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
     }
+
+    void OnTriggerEnter2D(Collider2D other){
+        if (other.gameObject.layer == 6){
+            
+            choiceMaster.gameObject.SetActive(true);   
+        
+        }
+    }
+
 }

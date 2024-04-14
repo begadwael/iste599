@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
-using Unity.PlasticSCM.Editor.WebApi;
 using UnityEngine;
 using System;
 
@@ -33,6 +32,7 @@ public class TimeManger : MonoBehaviour
         }else if (time >= timeToStop)
         {
             isRunning = false;
+            
         }
 
         // Check if any of the events should be triggered
