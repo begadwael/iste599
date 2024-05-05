@@ -11,6 +11,7 @@ public class choice_logic : MonoBehaviour
     [SerializeField] private Canvas choiceMasterCanvas;
 
     [SerializeField] private Canvas choiceMasterChoiceCanvas;
+    [SerializeField] private Canvas new_master_menu;
 
     [SerializeField] private SpriteRenderer ppf_sprite;
 
@@ -26,6 +27,7 @@ public class choice_logic : MonoBehaviour
         choiceMasterChoiceCanvas.gameObject.SetActive(false);
         ppf_sprite.sprite = message_yes.PortraitImage;
         speachCanvas.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = message_yes.message;
+        new_master_menu.gameObject.SetActive(false);
         hasAnswered = true;
     }
 
@@ -35,6 +37,7 @@ public class choice_logic : MonoBehaviour
         choiceMasterChoiceCanvas.gameObject.SetActive(false);
         ppf_sprite.sprite = message_no.PortraitImage;
         speachCanvas.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = message_no.message;
+        new_master_menu.gameObject.SetActive(false);
         hasAnswered = true;
     }
 

@@ -10,8 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 254b53207e8e123468d6bd0af7663745, type: 3}
-  m_Name: health_yes
+  m_Name: messages_Narrator Message
   m_EditorClassIdentifier: 
-  message: A noble choice, Mr. President you have lost 5% of big pharma support but
-    gained 10% over all states, GO TO THE ELEVATOR
-  PortraitImage: {fileID: 2141056194, guid: 18becc7e8fa396843a3f59de1b380e48, type: 3}
+  message: go to rally
+  PortraitImage: {fileID: 688284078, guid: 855acede10fa892438714d30c2e1297e, type: 3}

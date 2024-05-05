@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: health_no
   m_EditorClassIdentifier: 
   message: A intresting choice, Mr. President you have lost 5% of the masses support
-    over all states but gained 15% support from big pharma
+    over all states but gained 15% support from big pharma,GO TO THE ELEVATOR
   PortraitImage: {fileID: 2141056194, guid: 18becc7e8fa396843a3f59de1b380e48, type: 3}

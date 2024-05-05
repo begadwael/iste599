@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EndScene.unity
     guid: e98ffe68f66474842becda8f80ca9868
+  - enabled: 1
+    path: Assets/Scenes/building 2.unity
+    guid: e32ae36055bb9ad46beb687d0805dd13
+  - enabled: 1
+    path: Assets/Scenes/rally one.unity
+    guid: 0f333c70d2943e048b2c72122ee82c80
+  - enabled: 1
+    path: Assets/Scenes/rally two.unity
+    guid: 51d891ecc6af9c348b146b9540b98d4b
   m_configObjects: {}

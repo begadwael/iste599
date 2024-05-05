@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] Animator animator;
     [SerializeField] private Canvas choiceMaster;
+    [SerializeField] private speachEvent speachEvent;
 
     Vector2 movement;
 
@@ -32,6 +34,12 @@ public class PlayerController : MonoBehaviour
             
             choiceMaster.gameObject.SetActive(true);   
         
+        }
+        else if (other.gameObject.layer == 7){
+            SceneManager.LoadScene("building 2");
+        }
+        if (other.gameObject.layer == 8){
+            speachEvent.triggerEvent();
         }
     }
 
