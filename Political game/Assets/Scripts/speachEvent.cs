@@ -10,7 +10,7 @@ public class speachEvent : GameEvent
 
     [Header("Series Settings")]
     [SerializeField] bool isSeries= false;
-    [SerializeField] private List<Narratormessage> messages;
+    [SerializeField] public List<Narratormessage> messages;
 
 
     [Header("UI Settings")]

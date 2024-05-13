@@ -12,6 +12,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] Animator animator;
     [SerializeField] private Canvas choiceMaster;
     [SerializeField] private speachEvent speachEvent;
+    [SerializeField] private speachEvent speachEvent2;
+    [SerializeField] private speachEvent speachEvent3;
 
     Vector2 movement;
 
@@ -40,6 +42,15 @@ public class PlayerController : MonoBehaviour
         }
         if (other.gameObject.layer == 8){
             speachEvent.triggerEvent();
+        }
+        if (other.gameObject.layer == 9){
+            speachEvent2.triggerEvent();
+        }
+        if (other.gameObject.layer == 10){
+            speachEvent3.triggerEvent();
+        }
+        if (other.gameObject.layer == 11){
+            SceneManager.LoadScene("rally one");
         }
     }
 

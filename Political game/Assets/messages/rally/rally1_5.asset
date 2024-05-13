@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 254b53207e8e123468d6bd0af7663745, type: 3}
+  m_Name: rally1_5
+  m_EditorClassIdentifier: 
+  message: Many argue about what truly qualifies a leader for this role. Tell us,
+    why do you believe you are the right choice for the people?
+  PortraitImage: {fileID: -1701917305, guid: 7d85d45e58a083b4cb568221dd96add6, type: 3}
