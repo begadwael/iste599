@@ -23,7 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/rally one.unity
     guid: 0f333c70d2943e048b2c72122ee82c80
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/rally two.unity
     guid: 51d891ecc6af9c348b146b9540b98d4b
   m_configObjects: {}

@@ -52,6 +52,12 @@ public class PlayerController : MonoBehaviour
         if (other.gameObject.layer == 11){
             SceneManager.LoadScene("rally one");
         }
+        if (other.gameObject.layer == 12){
+            SceneManager.LoadScene("building 2");
+        }
+        if (other.gameObject.layer == 13){
+            SceneManager.LoadScene("new_map");
+        }
     }
 
 }
